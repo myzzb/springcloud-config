@@ -1,4 +1,4 @@
-env: test2020
+env: test9999
 eureka:
   client:
     service-url:
